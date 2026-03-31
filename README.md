@@ -11,6 +11,18 @@ A cross-platform (iOS & Android) real-time messaging application built with Reac
 
 ---
 
+## 📸 Screenshots
+
+<div align="center">
+  <img src="images/welcome_screen.png" alt="Welcome Screen" width="30%" />
+  <img src="images/auth_screen.png" alt="Authentication Screen" width="30%" />
+  <img src="images/chat.png" alt="Direct Chat" width="30%" />
+  <img src="images/group_chat.png" alt="Group Chat" width="30%" />
+  <img src="images/update_profile.png" alt="Update Profile" width="30%" />
+</div>
+
+---
+
 ## ✨ Features
 
 - **Real-time Messaging** — Instant message delivery and reception using Socket.io
